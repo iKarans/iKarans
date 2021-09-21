@@ -15,6 +15,6 @@ Workstation: \
 Technology Stack: \
 Work in Progress 🙏 (like myself) \
 
-Stats for the nerds:
-![image](https://github-readme-stats.vercel.app/api?username=iKarans) \
+Stats for the nerds: \
+![image](https://github-readme-stats.vercel.app/api?username=iKarans)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=iKarans)
