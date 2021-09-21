@@ -3,7 +3,7 @@
 I'm Karan, a Software Developer based in London, UK.
 
 ### Let's Connect: 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.google.com/search?q=github+readme+badges+with+link&ei=-xVKYbaBI9GajLsPhrSXkAg&oq=github+readme+badges+with+link&gs_lcp=Cgdnd3Mtd2l6EAMyCAghEBYQHRAeOgcIABBHELADOgcIABCwAxBDOgYIABAWEB5KBAhBGABQgx1YxCpgpi1oAXACeACAAVKIAc0FkgECMTCYAQCgAQHIAQrAAQE&sclient=gws-wiz&ved=0ahUKEwj26revy5DzAhVRDWMBHQbaBYIQ4dUDCA4&uact=5)
 
 
 ### Workstation: 
