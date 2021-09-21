@@ -15,4 +15,4 @@ Workstation: \
 Technology Stack: \
 Work in Progress 🙏 (like myself)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username={iKarans})
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=iKarans)
