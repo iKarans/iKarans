@@ -3,7 +3,7 @@
 I'm Karan, a Software Developer based in London, UK.
 
 Let's Connect: \
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](cypress/integration/calculator.spec.js)
 
 Workstation: \
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
