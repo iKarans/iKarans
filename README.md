@@ -3,7 +3,7 @@
 I'm Karan, a Software Developer based in London, UK.
 
 Let's Connect: \
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/karan-sivalingam)
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 Workstation: \
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -13,4 +13,4 @@ Workstation: \
 
 
 Technology Stack: \
-Work in Progress 🙏
+Work in Progress 🙏 (like myself)
