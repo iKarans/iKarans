@@ -3,7 +3,7 @@
 I'm Karan, a Software Developer based in London, UK.
 
 ### Let's Connect: 
-<a href="www.linkedin.com/in/karan-sivalingam">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/feed/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
