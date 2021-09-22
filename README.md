@@ -17,6 +17,7 @@ I'm Karan, a Software Developer based in London, UK.
 Work in Progress 🙏 (like myself) 
 
 
-### Stats for the nerds: 
+### Stats for the nerds:
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 ![image](https://github-readme-stats.vercel.app/api?username=iKarans)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=iKarans)
