@@ -13,10 +13,9 @@ I'm Karan, a Software Developer based in London, UK.
 ![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![image](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
 
-
-### Technology Stack: 
-Work in Progress 🙏 (like myself) 
-
+### Technology Stack (Work in Progress 🙏):
+![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ### Stats for the nerds:
 ![image](https://github-readme-stats.vercel.app/api?username=iKarans)
