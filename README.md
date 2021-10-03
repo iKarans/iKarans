@@ -30,3 +30,7 @@ I'm Karan, a Software Developer based in London, UK. I am currently undertaking 
 ## Stats for the nerds:
 ![image](https://github-readme-stats.vercel.app/api?username=iKarans)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=iKarans)
+
+## Miscellaneous:
+<a href="https://myanimelist.net/profile/iKarans" target="_blank">![image](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
+<a href="https://leetcode.com/iKarans/" target="_blank">![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a>
