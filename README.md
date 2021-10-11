@@ -32,5 +32,5 @@ I'm Karan, a Software Developer based in London, UK. I am currently undertaking 
 
 ## Miscellaneous:
 <a href="https://myanimelist.net/profile/iKarans" target="_blank">![image](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
-[!image](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![image](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 <!-- <a href="https://leetcode.com/iKarans/" target="_blank">![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a> -->
