@@ -1,6 +1,6 @@
 # Hey 👋!
 
-I'm Karan a graduate from <a href="https://www.lse.ac.uk" target="_blank">The London School of Economics</a> and a Software Developer based in London, UK. I am currently undertaking a twelve week intensive course at [_nology](https://nology.io/).
+I'm Karan, a graduate from <a href="https://www.lse.ac.uk" target="_blank">The London School of Economics</a> and a Software Developer based in London, UK. I am currently undertaking a twelve week intensive course at [_nology](https://nology.io/).
 
 ## Let's Connect: 
 <a href="https://www.linkedin.com/in/karan-sivalingam/" target="_blank">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
