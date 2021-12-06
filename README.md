@@ -1,9 +1,6 @@
 # Hey 👋!
 
-I'm Karan, a graduate from <a href="https://www.lse.ac.uk" target="_blank">The London School of Economics</a> and a Software Developer based in London, UK. I am currently undertaking a twelve week intensive course at [_nology](https://nology.io/). Check out my <a href="https://ikarans.github.io/Karan-Portfolio/portfolio" target="_blank">Portfolio</a>
-
-## Portfolio:
-https://ikarans.github.io/Karan-Portfolio/
+I'm Karan, a graduate from <a href="https://www.lse.ac.uk" target="_blank">The London School of Economics</a> and a Software Developer based in London, UK. I am currently undertaking a twelve week intensive course at [_nology](https://nology.io/). Check out my <a href="https://ikarans.github.io/Karan-Portfolio/portfolio" target="_blank">Portfolio.</a>
 
 ## Let's Connect:
 
