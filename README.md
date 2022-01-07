@@ -42,5 +42,5 @@ I'm Karan, a graduate from <a href="https://www.lse.ac.uk" target="_blank">The L
 
 <a href="https://myanimelist.net/profile/iKarans" target="_blank">![image](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)</a>
 ![image](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
-![image](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+![image](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 <!-- <a href="https://leetcode.com/iKarans/" target="_blank">![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a> -->
